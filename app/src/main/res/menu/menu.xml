@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuHelp"
+        android:icon="@drawable/baseline_help_24"
+        android:title="Help"
+        app:showAsAction="collapseActionView|withText" />
+    <item
+        android:id="@+id/menuparametre"
+        android:title="Setting" />
+    <item
+        android:id="@+id/menulogout"
+        android:title="Logout" />
+</menu>
